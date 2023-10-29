@@ -1,4 +1,4 @@
-### Hi Welcome, i'm Chaeyeon Lee 👋
+## Hi Welcome, i'm Chaeyeon Lee 👋
 
 #### My major is AI. 
 Now I'm interested in development, research, design
@@ -27,6 +27,6 @@ Now I'm interested in development, research, design
 [![mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=mail&logoColor=white&link=mailto:cy6366@gachon.ac.kr)](cy6366@gachon.ac.kr)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Silver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy6366)](https://solved.ac/cy6366/)  
