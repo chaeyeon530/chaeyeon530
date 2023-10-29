@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
   <p align="left">
   <a href="https://www.instagram.com/chaeyeonii_530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:cy6366@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cy6366@gachon.ac.kr"/></a>
+  <a href="mailto:cy6366@gachon.ac.kr"><img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=mail&logoColor=white&link=cy6366@gachon.ac.kr"/></a>
 </p>
 
   ## 🔨 Once I've used 🔨
