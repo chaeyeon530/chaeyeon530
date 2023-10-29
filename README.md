@@ -29,4 +29,4 @@ Now I'm interested in development, research, design
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=(https://solved.ac/profile/cy6366))](https://solved.ac/cy6366/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy6366)](https://solved.ac/cy6366/)  
