@@ -12,8 +12,8 @@ Now I'm interested in development, research and design
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 
 
-🐱 About Me & Contact 📞
-<a></a>
+## 🐱 About Me & Contact 📞
+
 <a href="https://www.instagram.com/chaeyonii_530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> [![mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=mail&logoColor=white&link=mailto:cy6366@gachon.ac.kr)](cy6366@gachon.ac.kr)
 
 <div style="display:flex; flex-direction:row;">
