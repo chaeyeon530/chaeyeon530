@@ -1,6 +1,6 @@
-## Hi Welcome, i'm Chaeyeon Lee 👋
+# Hi Welcome, i'm Chaeyeon Lee 👋
 
-#### My major is AI. 
+## My major is AI. 
 Now I'm interested in development, research and design
 
 ### 🛠️ Stacks
