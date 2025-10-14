@@ -37,7 +37,7 @@
 
 ## 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EC%9D%B4-2a1a20190/" target="_blank">
+  <a href="https://www.linkedin.com/in/%EC%B1%84%EC%97%B0-%EC%9D%B4-5784102b2/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -50,6 +50,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andy3400&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy3400&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaeyeon530&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeon530&layout=compact" />
 </p>
+
