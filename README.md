@@ -1,22 +1,55 @@
-# Hi Welcome, i'm Chaeyeon Lee 👋
+# Hello, I'm CHAEYEON LEE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## My major is AI. 
-Now I'm interested in development, research and design
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Data%20Analyst&fontSize=80" />
+  </a>
+</p>
 
-## 🛠️ Stacks 🛠️
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-4479A1?style=flat-square&logo=Flutter&logoColor=white"/>
+---
+
+## 👋 About Me
+- 🚀 **AI/SW major** passionate about learning
+- 💻 Currently working on **Data analysis & ML** projects
+- 🌍 Exploring **Big Data science** & **Machine Learning**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white)
+
+### 🔹 Big Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### 🔹 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white">
 
 
 
+---
 
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EC%9D%B4-2a1a20190/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-## 🐱 About Me & Contact 📞
+  <a href="cy6366@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<a href="https://www.instagram.com/chaeyonii_530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> [![mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=mail&logoColor=white&link=mailto:cy6366@gachon.ac.kr)](cy6366@gachon.ac.kr)
+---
 
-<div style="display:flex; flex-direction:row;">
-
-
-## 🏅 Algorithm Silver Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy6366)](https://solved.ac/cy6366/)  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andy3400&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy3400&layout=compact" />
+</p>
