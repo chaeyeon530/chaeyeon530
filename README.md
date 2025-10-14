@@ -40,10 +40,6 @@
   <a href="https://www.linkedin.com/in/%EC%B1%84%EC%97%B0-%EC%9D%B4-5784102b2/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="ichaeyeon6366@gamil.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
 
 ---
